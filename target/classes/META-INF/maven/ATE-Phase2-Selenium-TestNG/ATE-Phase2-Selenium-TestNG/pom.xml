@@ -48,7 +48,7 @@
           <configuration>
     <suiteXmlFiles>
         <!--     <suiteXmlFile>src/main/resources/TestRunner3.xml</suiteXmlFile> -->
-        <suiteXmlFile>src/test/resources/TestNGRunner.xml</suiteXmlFile>
+        <suiteXmlFile>src/test/resources/TestRunner.xml</suiteXmlFile>
        
           </suiteXmlFiles>
 </configuration>
